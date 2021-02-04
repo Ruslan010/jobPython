@@ -11,7 +11,7 @@ a5 = ('123', 'geek')
 a6 = complex(1, 2)
 print(type(a1), a1)
 print(type(a1_1), a1_1)
-print(type(a2), a2, '\n', a2[6:10], a2[::2], a2[::-1])  # []срезы  [::2] срез с шагом 2, j,зеркальный[::-1]
+print(type(a2), a2, '\n', a2[6:10], a2[::2], a2[::-1])  # []срезы  [::2] срез с шагом 2, зеркальный[::-1]
 print(type(a3), a3)
 print(type(a4), a4)
 print(type(a5), a5)
