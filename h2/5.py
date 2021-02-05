@@ -10,3 +10,5 @@ if num.isdigit():
     print(my_list)
 else:
     print('Ошибка!!!')
+
+
